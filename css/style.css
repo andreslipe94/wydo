@@ -230,6 +230,7 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started,
+
 #intro .intro-info .btn-services {
   font-family: "Montserrat", sans-serif;
   font-size: 13px;
@@ -537,7 +538,7 @@ h6 {
 
 #about .about-img {
   position: relative;
-  margin: 70px 30px 30px 30px;
+  margin: 60px 30px 30px 30px;
 }
 
 #about .about-img img {
